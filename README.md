@@ -1,4 +1,4 @@
-# filelena
+# filtelena
 
 Apply some filters in the famous Lena photo. There are 7 possible filters (listed below).
 
